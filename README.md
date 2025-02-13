@@ -4,6 +4,9 @@
 **作者：Gwaanl**
 
 DeepSeek API Test 是一个用于对多个语言模型接口进行自动化测试和性能评估的项目。项目通过 Flask 构建 Web 前端，并利用 APScheduler 定时触发测试任务。测试结果会保存到 SQLite 数据库中，同时支持将测试结果导出为图片，便于留档或报告展示。
+![test_results_20250212_225605](https://github.com/user-attachments/assets/416f1ce8-f9d8-4033-9117-c94dc229b32d)
+在网页界面上点击这几个按钮能够进行列的显示和隐藏
+![Uploading image.png…]()
 
 **DeepSeek Api Test 由 Gwaanl 构建，源代码遵循 MIT 协议**
 
